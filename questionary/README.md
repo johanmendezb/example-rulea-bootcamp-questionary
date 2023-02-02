@@ -1,1 +1,3 @@
-hola soy un read me
+# Rulea bootcamp number 1
+
+> Let's fucking go!
